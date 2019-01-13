@@ -1,0 +1,14 @@
+title: "Сеть FURRY"
+description: "Структура сети и описание проекта FURRY."
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: "Kitsune Solar"
+  email: "kitsune.solar@gmail.com"
+  github: "metacraft"
+  twitter: "metadatafdn"
